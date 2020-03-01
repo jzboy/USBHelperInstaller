@@ -15,3 +15,5 @@ To build this project you must install [NSIS](https://nsis.sourceforge.io/Downlo
 * [XML](https://nsis.sourceforge.io/XML_plug-in)
 
 Download each one of them and extract them to your NSIS installation directory.
+
+titlekey的网址：wiiu.tik.acgtop.cn
